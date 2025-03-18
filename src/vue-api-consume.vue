@@ -92,7 +92,7 @@ export default {
     <table border="1" style="border-collapse: collapse;margin-left: 10px;" cellpadding="2">
         <tr>
             <th>No</th>
-            <th>Nama</th>
+            <th>Nama Karyawan</th>
             <th>Email</th>
             <th>Jabatan/Posisi</th>
             <th>#</th>
