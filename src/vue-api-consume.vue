@@ -103,7 +103,7 @@ export default {
             <td>{{ emp.email }}</td>
             <td>{{ emp.designation }}</td>
             <td>
-                <button @click="setEditEmployee(emp)">Edit</button>
+                <button @click="setEditEmployee(emp)">Ubah</button>
                 <button @click="deleteEmployee(emp.id)">Hapus</button>
             </td>
         </tr>
