@@ -93,9 +93,9 @@ export default {
         <tr style="background-color: green">
             <th style="color:white">No</th>
             <th style="color:white">Nama Karyawan</th>
-            <th>Email</th>
-            <th>Jabatan/Posisi</th>
-            <th>#</th>
+            <th style="color:white">Email</th>
+            <th style="color:white">Jabatan/Posisi</th>
+            <th style="color:white">#</th>
         </tr>
         <tr v-for="(emp,index) in employees" :key="emp.id">
             <td>{{ index+1 }}</td>
