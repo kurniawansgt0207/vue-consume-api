@@ -66,9 +66,8 @@ export default {
 </script>
 
 <template>
-    <center>
   <div>
-    <h2>CRUD dengan Vue & REST API</h2>
+    <h2>CRUD dengan Vue & REST API (AAAA)</h2>
 
     <!-- Form Tambah Data -->
     <div>
@@ -110,7 +109,6 @@ export default {
         </tr>
     </table>
   </div>
-        <center>
 </template>
 
 <style>
