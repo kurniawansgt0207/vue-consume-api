@@ -66,6 +66,7 @@ export default {
 </script>
 
 <template>
+    <center>
   <div>
     <h2>CRUD dengan Vue & REST API</h2>
 
@@ -109,6 +110,7 @@ export default {
         </tr>
     </table>
   </div>
+        <center>
 </template>
 
 <style>
