@@ -67,7 +67,7 @@ export default {
 
 <template>
   <div>
-    <h2>CRUD dengan Vue & REST API (AAAA)</h2>
+    <h2>CRUD dengan Vue & REST API (V1.1)</h2>
 
     <!-- Form Tambah Data -->
     <div>
